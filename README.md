@@ -1,4 +1,4 @@
-# 🎓 Performance Prediction: End-to-End with Deployment
+# 🎓 Performance Prediction: End-to-End Project.
 ![Student Performance Prediction UI](assests/Performance%20Prediction.png)
 
 This project explores how various socio-demographic factors influence student performance (test scores) using supervised machine learning. From data preprocessing to model deployment, the goal is to predict student scores based on features such as gender, ethnicity, parental education, lunch type, and participation in test preparation courses.
